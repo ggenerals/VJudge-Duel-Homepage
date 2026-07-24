@@ -13,5 +13,5 @@ QQ 群：1059528564
 
 **赞助名单**
 
-1. Aroma_Clover 3r
-2. fionayoung0320 10.24r
+1. fionayoung0320 $10.24r$
+2. Aroma_Clover   $3r$
