@@ -11,6 +11,9 @@ QQ 群：1059528564
 
 最终解释权归 Vjudge Duel 官方所有。
 
+联动插件：[VJudge Duel++](https://scriptcat.org/zh-CN/script-show-page/7174)，[GenGen RMJ](https://scriptcat.org/zh-CN/script-show-page/5099)，[VJudge Cooldown Nuker
+](https://scriptcat.org/zh-CN/script-show-page/7175)
+
 **赞助名单**
 
 1. fionayoung0320 10.24r
