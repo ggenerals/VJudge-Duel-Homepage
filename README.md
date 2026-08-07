@@ -1,6 +1,6 @@
-QQ 群：1059528564
+[点击加入 QQ 群，可以反馈相关问题或讨论学术](https://qm.qq.com/q/qoQIvKDuQE)
 
-为了限制作弊行为以及更好的解决 bug，我们加入了回放系统，管理员可以在后台查看回放。
+[请给我们一个 Star！](https://github.com/ggenerals/vjudge-duel)
 
 **如果你在 Vjudge Duel 进行以下行为将被封号处理：**
 - [向洛谷发送任何有关本网站的问题，否则可能会被**我们**和他们进行封号处理](https://www.luogu.com.cn/ticket/CHYK079169)
@@ -11,8 +11,8 @@ QQ 群：1059528564
 
 最终解释权归 Vjudge Duel 官方所有。
 
-联动插件：[VJudge Duel++](https://scriptcat.org/zh-CN/script-show-page/7174)，[GenGen RMJ](https://scriptcat.org/zh-CN/script-show-page/5099)，[VJudge Cooldown Nuker
-](https://scriptcat.org/zh-CN/script-show-page/7175)
+联动插件：[VJudge Duel++](https://scriptcat.org/zh-CN/script-show-page/7174)，[GenGen RMJ](https://scriptcat.org/zh-CN/script-show-page/5099)
+这几个插件能直接在后台自动判题，你只需要在洛谷提交代码，即可自动同步。
 
 **赞助名单**
 
