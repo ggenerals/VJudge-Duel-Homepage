@@ -1,3 +1,5 @@
+### [辅助脚本](https://scriptcat.org/zh-CN/script-show-page/7404)
+
 [点击加入 QQ 群，可以反馈相关问题或讨论学术](https://qm.qq.com/q/qoQIvKDuQE)
 
 [请给我们一个 Star！](https://github.com/ggenerals/vjudge-duel)
