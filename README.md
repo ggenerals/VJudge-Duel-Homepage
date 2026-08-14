@@ -1,8 +1,8 @@
-### [辅助脚本](https://scriptcat.org/zh-CN/script-show-page/7404)
-
 [点击加入 QQ 群，可以反馈相关问题或讨论学术](https://qm.qq.com/q/qoQIvKDuQE)
 
-[请给我们一个 Star！](https://github.com/ggenerals/vjudge-duel)
+[开源仓库地址：请给我们一个 Star！](https://github.com/ggenerals/vjudge-duel)
+
+[工单反馈](https://github.com/ggenerals/vjudge-duel/issues)
 
 联动插件：[VJudge Duel++](https://scriptcat.org/zh-CN/script-show-page/7174)，[GenGen RMJ](https://scriptcat.org/zh-CN/script-show-page/5099)
 这几个插件能直接在后台自动判题，你只需要在洛谷提交代码，即可自动同步。
