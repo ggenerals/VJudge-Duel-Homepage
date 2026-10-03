@@ -2,10 +2,12 @@
 
 [开源仓库地址：请给我们一个 Star！](https://github.com/ggenerals/vjudge-duel)
 
-联动插件：[VJudge Duel++](https://scriptcat.org/zh-CN/script-show-page/7174)，[GenGen RMJ](https://scriptcat.org/zh-CN/script-show-page/5099)
-这几个插件能直接在后台自动判题，你只需要在洛谷提交代码，即可自动同步。
 
 **请大家文明对决，少做水题。**
+
+欢迎参加 GenGen 参与准备的一场公开赛：qaswed12 OI Round 1，点击下方图片即可参加。
+
+![](https://cdn.luogu.com.cn/upload/image_hosting/d0v61e9z.png)
 
 **赞助名单**
 
