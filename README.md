@@ -7,7 +7,7 @@
 
 欢迎参加 GenGen 参与准备的一场公开赛：qaswed12 OI Round 1，点击下方图片即可参加。
 
-![](https://cdn.luogu.com.cn/upload/image_hosting/d0v61e9z.png)
+[![](https://cdn.luogu.com.cn/upload/image_hosting/d0v61e9z.png)](https://www.luogu.com.cn/contest/336618)
 
 **赞助名单**
 
