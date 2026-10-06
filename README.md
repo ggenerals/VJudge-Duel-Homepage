@@ -5,9 +5,12 @@
 
 **请大家文明对决，少做水题。**
 
-欢迎参加 GenGen 参与准备的一场公开赛：qaswed12 OI Round 1，点击下方图片即可参加。
+热烈庆祝 qaswed12 OI Round 1 圆满结束！
 
-[![](https://cdn.luogu.com.cn/upload/image_hosting/d0v61e9z.png)](https://www.luogu.com.cn/contest/336618)
+> ~~关于 teacher_zxf 原题机出锅这一块...~~
+
+开发组指定通知：
+> 由于洛谷前端更新，自动判题脚本叒出现了一些问题，但是由于我们将力量集中在 GenGen RMJ 上，我们可能短时间内无法恢复自动判题功能。
 
 **赞助名单**
 
